@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-address: |
-    **[Amirkabir University of Technology -- Department of Mathematics and
-    Computer Science](http://aut.ac.ir/)**
-title: Curriculum Vitae
----
-
 RESEARCH INTERESTS
 ==================
 
@@ -58,7 +51,6 @@ HONORS
 
 TEACHING EXPERIENCE
 ===================
-
 -   **Undergraduate Teaching Assistant**
 
     -   Data Structures and Algorithms
@@ -78,7 +70,6 @@ TEACHING EXPERIENCE
 
 ACADEMIC PROJECTS
 =================
-
 -   [AUT Twitter Analytics - A dashboard used to analyze
     tweets](https://github.com/AUT-Twitter-Analytics)
 
@@ -123,9 +114,6 @@ LANGUAGE SKILLS
 
 COURSES
 =======
-
-2
-
 -   Data Mining
 
     -   [Grade: unreceived]{style="color: gray"}
@@ -179,11 +167,8 @@ COURSES
 
     -   [Grade: 20/20]{style="color: gray"}
 
- ONLINE COURSES
+ONLINE COURSES
 ==============
-
-2
-
 -   [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 -   [Advanced Python Programming, project
@@ -195,13 +180,8 @@ COURSES
 
 COMPUTER SKILLS
 ===============
-
-2
-
 -   **Programming/Scripting**
-
-    2
-
+   
     -   Python
 
     -   MySQL/PostgreSQL
@@ -221,6 +201,3 @@ COMPUTER SKILLS
     -   JetBrains
 
     -   MATLAB/Octave
-
-**References, Further information, and Proofs are available upon
-Request**
