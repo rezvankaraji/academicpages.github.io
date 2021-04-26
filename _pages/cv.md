@@ -20,53 +20,39 @@ EDUCATION
 =========
 
 -   **Bachelor of Science** 2017--Present\
-    [ Amirkabir University of Technology (Tehran
-    Polytechnic)](http://aut.ac.ir/) *Tehran-Iran*
-
-    [[Ranked 2^nd^ in Iran according to QS
-    Ranking]{style="color: gray"}](https://www.topuniversities.com/university-rankings/world-university-rankings/2021)
-
+    Amirkabir University of Technology, Tehran-Iran
     -   Computer Science: Total 103 credits passed
-
         -   GPA: 17.88/20 (3.79/4) via 118 credits
 
 -   **Highschool Diploma** 2013-2017\
-    Farzaneghan Kermanshah (sampad) *Kermanshah-Iran*
-
+    Farzaneghan Kermanshah (sampad), Kermanshah-Iran
     -   Mathematics and Physics
-
         -   GPA: 19.77/20
+        
 
 HONORS
 ======
 
--   Ranked 4^th^ in Computer Science, among 64 students, Amirkabir
+-   Ranked 4th in Computer Science, among 64 students, Amirkabir
     University of Technology, Tehran, Iran.
 
 -   Ranked within the top 1.3% in university entrance exam, among more
-    than 148,000 participant. \[Summer 2017\]
+    than 148,000 participant, Summer 2017.
 
 -   Granted admission from Talented Student Office of Amirkabir
     University of Technology for graduate study.
+    
 
 TEACHING EXPERIENCE
 ===================
 -   **Undergraduate Teaching Assistant**
 
-    -   Data Structures and Algorithms
+    -   Data Structures and Algorithms, Under supervision of Dr.Mohammad Akbari.
 
-        -   [Under supervision of Dr.Mohammad
-            Akbari.]{style="color: gray"}
+    -   Introduction to the Theory of Computation, Under supervision of Dr.Fatemeh Zare Mirakabad.
 
-    -   Introduction to the Theory of Computation
+    -   Introduction to the Theory of Computation, Under supervision of Dr.Naser Hashemi.
 
-        -   [Under supervision of Dr.Fatemeh Zare
-            Mirakabad.]{style="color: gray"}
-
-    -   Introduction to the Theory of Computation
-
-        -   [Under supervision of Dr.Naser
-            Hashemi.]{style="color: gray"}
 
 ACADEMIC PROJECTS
 =================
@@ -74,33 +60,31 @@ ACADEMIC PROJECTS
     tweets](https://github.com/AUT-Twitter-Analytics)
 
     -   Exploratory Data Analysis, Sentiment Analysis, Topic Detection
-
-    [Course: Social Networks Analysis by Dr.Mohammad
-    Akbari]{style="color: gray"}
+    -   Course: Social Networks Analysis by Dr.Mohammad Akbari
 
 -   [Text classifier for Persian language Using
-    Python.](https://bit.ly/3smNFbz)\
-    [Course: Natural Language Processing (M.Sc) by Dr.Mohammad
-    Akbari]{style="color: gray"}
+    Python.](https://bit.ly/3smNFbz)
+    
+    -   Course: Natural Language Processing (M.Sc) by Dr.Mohammad Akbari
 
--   [Persian language Model Using Python.](https://bit.ly/3bF2Zuo)\
-    [Course: Natural Language Processing (M.Sc) by Dr.Mohammad
-    Akbari]{style="color: gray"}
+-   [Persian language Model Using Python.](https://bit.ly/3bF2Zuo)
+-   
+    -   Course: Natural Language Processing (M.Sc) by Dr.Mohammad Akbari
 
--   [Email Spam Detector Using Python.](https://bit.ly/39y6Rus)\
-    [Course: Social Networks Analysis by Dr.Mohammad
-    Akbari]{style="color: gray"}
+-   [Email Spam Detector Using Python.](https://bit.ly/39y6Rus)
+-   
+    -   Course: Social Networks Analysis by Dr.Mohammad Akbari
 
--   [Twitter Sentiment Analyzer Using Python.](https://bit.ly/38K9gmG)\
-    [Course: Social Networks Analysis by Dr.Mohammad
-    Akbari]{style="color: gray"}
+-   [Twitter Sentiment Analyzer Using Python.](https://bit.ly/38K9gmG)
+-   
+    -   Course: Social Networks Analysis by Dr.Mohammad Akbari
 
 -   [Design and Development of an Educational Assistant Web-Application
     (Applicato).](https://gitlab.com/applicato/back-end)
 
-    -   Back-end Development using NodeJS and MongoDB.\
-        [Course: Principles of Software Design Supervised by Dr.Amin
-        Gheibi]{style="color: gray"}
+    -   Back-end Development using NodeJS and MongoDB.
+    -   Course: Principles of Software Design Supervised by Dr.Amin Gheibi
+
 
 LANGUAGE SKILLS
 ===============
@@ -108,64 +92,48 @@ LANGUAGE SKILLS
 -   Persian Native
 
 -   English Fluent
+    -   TOEFL iBT: 102 (Reading: 27 ,Listening: 28 ,Speaking: 24, Writing: 23)
 
-    -   TOEFL iBT: 102 (Reading: 27 ,Listening: 28 ,Speaking: 24
-        ,Writing: 23)
 
 COURSES
 =======
 -   Data Mining
-
-    -   [Grade: unreceived]{style="color: gray"}
+    -   Grade: unreceived
 
 -   Natural Language Processing (M.Sc)
-
-    -   [Grade: 17/20]{style="color: gray"}
+    -   Grade: 17/20
 
 -   Bioinformatics (M.Sc)
-
-    -   [Grade: 17/20]{style="color: gray"}
+    -   Grade: 17/20
 
 -   Special Topics in Computer Science
-
     -   Social Networks Analysis
-
-    -   [Grade: 20/20]{style="color: gray"}
+    -   Grade: 20/20
 
 -   Artificial Intelligence
-
-    -   [Grade: 17.6/20]{style="color: gray"}
+    -   Grade: 17.6/20
 
 -   Database
-
-    -   [Grade: pass (pass/fail system due to
-        COVID-19)]{style="color: gray"}
+    -   Grade: pass (pass/fail system due to COVID-19)
 
 -   Principles of Software Design
-
-    -   [Grade: pass (pass/fail system due to
-        COVID-19)]{style="color: gray"}
+    -   Grade: pass (pass/fail system due to COVID-19)
 
 -   Numerical Linear Algebra
-
-    -   [Grade: pass (pass/fail system due to
-        COVID-19)]{style="color: gray"}
+    -   Grade: pass (pass/fail system due to COVID-19)
 
 -   Design and Analysis of Algorithms
-
-    -   [Grade: 16/20]{style="color: gray"}
+    -   Grade: 16/20
 
 -   Linear Optimization
-
-    -   [Grade: 19.7/20]{style="color: gray"}
+    -   Grade: 19.7/20
 
 -   Data Structures and Algorithms
-
-    -   [Grade: 19.75/20]{style="color: gray"}
+    -   Grade: 19.75/20
 
 -   Advanced Programming - C++
+    -   Grade: 20/20
 
-    -   [Grade: 20/20]{style="color: gray"}
 
 ONLINE COURSES
 ==============
@@ -175,8 +143,8 @@ ONLINE COURSES
     based](https://quera.ir/college/land/3078/)
 
 -   [Deep Learning Specialization
-    ](https://www.coursera.org/specializations/deep-learning?/)[ (In
-    Progress)]{style="color: gray"}
+    ](https://www.coursera.org/specializations/deep-learning?/), In Progress
+
 
 COMPUTER SKILLS
 ===============
