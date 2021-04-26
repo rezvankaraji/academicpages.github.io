@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*You can find the PDf of my CV, [Here](rezvankaraji.github.io/files/cv.pdf.)
+**You can find the PDf of my CV, [Here](rezvankaraji.github.io/files/CV.pdf.).
 
 
 RESEARCH INTERESTS
@@ -17,6 +17,8 @@ RESEARCH INTERESTS
 
 -   Machine Learning
 -   Deep Learning
+
+
 
 EDUCATION
 =========
@@ -32,6 +34,7 @@ EDUCATION
         -   GPA: 19.77/20
         
 
+
 HONORS
 ======
 -   Ranked 4th in Computer Science, among 64 students, Amirkabir
@@ -42,6 +45,7 @@ HONORS
     University of Technology for graduate study.
     
 
+
 TEACHING EXPERIENCE
 ===================
 -   **Undergraduate Teaching Assistant**
@@ -49,6 +53,7 @@ TEACHING EXPERIENCE
     -   Data Structures and Algorithms, Under supervision of Dr.Mohammad Akbari.
     -   Introduction to the Theory of Computation, Under supervision of Dr.Fatemeh Zare Mirakabad.
     -   Introduction to the Theory of Computation, Under supervision of Dr.Naser Hashemi.
+
 
 
 ACADEMIC PROJECTS
@@ -77,11 +82,13 @@ ACADEMIC PROJECTS
     -   Course: Principles of Software Design Supervised by Dr.Amin Gheibi
 
 
+
 LANGUAGE SKILLS
 ===============
 -   Persian Native
 -   English Fluent
     -   TOEFL iBT: 102 (Reading: 27 ,Listening: 28 ,Speaking: 24, Writing: 23)
+
 
 
 COURSES
@@ -111,6 +118,7 @@ COURSES
 -   Advanced Programming - C++, Grade: 20/20
 
 
+
 ONLINE COURSES
 ==============
 -   [Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -118,6 +126,7 @@ ONLINE COURSES
     based](https://quera.ir/college/land/3078/)
 -   [Deep Learning Specialization
     ](https://www.coursera.org/specializations/deep-learning?/), In Progress
+
 
 
 COMPUTER SKILLS
