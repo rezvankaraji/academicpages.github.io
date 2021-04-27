@@ -12,13 +12,6 @@ redirect_from:
 **You can find the PDf of my CV, [Here](https://rezvankaraji.github.io/files/CV.pdf).**
 
 
-RESEARCH INTERESTS
-==================
-
--   Machine Learning
--   Deep Learning
-
-
 
 EDUCATION
 =========
