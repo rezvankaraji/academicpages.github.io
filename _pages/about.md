@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 Hello! I am a Bachelor Student at (Amirkabir University of Technology.)[https://aut.ac.ir/]
+I am broadly interested in the general area of Artificial Intelligence, with emphasis on Machine Learning, Natural Language Processing and their applications in Social Media Analysis.
