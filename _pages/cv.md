@@ -132,23 +132,14 @@ ONLINE COURSES
 COMPUTER SKILLS
 ===============
 -   **Programming/Scripting**
-   
-    -   Python
-
-    -   MySQL/PostgreSQL
-
-    -   MongoDB
-
+    -   Python:   Numpy, Pandas, Sikitlearn
+    -   SQL:  MySQL, PostgreSQL
+    -   NoSQL:  MongoDB
     -   C/C++
-
-    -   JavaScript/NodeJS
-
+    -   JavaScript:   NodeJS
     -   LaTeX
 
 -   **IDEs/Tools**
-
     -   VSCode
-
     -   JetBrains
-
     -   MATLAB/Octave
