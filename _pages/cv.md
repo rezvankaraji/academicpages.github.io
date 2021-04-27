@@ -94,27 +94,16 @@ LANGUAGE SKILLS
 COURSES
 =======
 -   Data Mining, Grade: unreceived
-
 -   Natural Language Processing (M.Sc), Grade: 17/20
-
 -   Bioinformatics (M.Sc), Grade: 17/20
-
 -   Special Topics in Computer Science: Social Networks Analysis, Grade: 20/20
-
 -   Artificial Intelligence, Grade: 17.6/20
-
 -   Database, Grade: pass (pass/fail system due to COVID-19)
-
 -   Principles of Software Design, Grade: pass (pass/fail system due to COVID-19)
-
 -   Numerical Linear Algebra, Grade: pass (pass/fail system due to COVID-19)
-
 -   Design and Analysis of Algorithms, Grade: 16/20
-
 -   Linear Optimization, Grade: 19.7/20
-
 -   Data Structures and Algorithms, Grade: 19.75/20
-
 -   Advanced Programming - C++, Grade: 20/20
 
 
