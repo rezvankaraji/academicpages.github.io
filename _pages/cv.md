@@ -16,10 +16,10 @@ redirect_from:
 EDUCATION
 =========
 
--   **Bachelor of Science** 2017--Present\
+-   **Bachelor of Science** 2017-2021\
     Amirkabir University of Technology, Tehran-Iran
-    -   Computer Science: Total 103 credits passed
-        -   GPA: 17.88/20 (3.79/4) via 118 credits
+    -   Computer Science:
+        -   GPA: 17.9/20 (3.78/4)
 
 -   **Highschool Diploma** 2013-2017\
     Farzaneghan Kermanshah (sampad), Kermanshah-Iran
@@ -76,7 +76,7 @@ LANGUAGE SKILLS
 
 COURSES
 =======
--   Data Mining, Grade: unreceived
+-   Data Mining, Grade: 20/20
 -   Natural Language Processing (M.Sc), Grade: 17/20
 -   Bioinformatics (M.Sc), Grade: 17/20
 -   Special Topics in Computer Science: Social Networks Analysis, Grade: 20/20
